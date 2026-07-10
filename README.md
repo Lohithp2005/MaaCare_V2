@@ -2,7 +2,7 @@
 
 ---
 
-  **Note:** Built the first version in a rush for a hackathon. Now Rebuilding with **clean architecture, scalable folder structure, maintainable code practices ,authentication and and much smoother overall functioning**..
+  **Note:** Built the first version in a rush for a hackathon. Now Rebuilding with **clean architecture, scalable folder structure, maintainable code practices ,authentication and much smoother overall functioning**..
 
 ---
 MaaCare is a full-stack maternal healthcare assistance platform designed to provide personalized support, pregnancy tracking, and AI-powered healthcare guidance for expecting mothers.
