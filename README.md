@@ -41,5 +41,6 @@ MaaCare is a full-stack maternal healthcare assistance platform designed to prov
 - Backend: FastAPI
 - Database: PostgreSQL
 - Authentication: JWT
-- AI: Pydantic AI
+- AI/ML: Pydantic AI , Media pipe
+  
 
